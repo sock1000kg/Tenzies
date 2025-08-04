@@ -9,3 +9,6 @@ The goal is to roll the dice until all values match, holding the ones you want t
 - Keep rolling until **all dice are the same** number.
 - Win! 🎉 (And maybe a little confetti.)
 
+## Screenshots
+![Screenshot_4-8-2025_171826_localhost](https://github.com/user-attachments/assets/7e77ad98-fc44-487b-9e64-c9ecb7b2b209)
+![Screenshot_4-8-2025_171727_localhost](https://github.com/user-attachments/assets/071007d4-1b30-453d-bab2-ec17903006f9)
