@@ -1,5 +1,5 @@
 # Tenzies
-
+[Link](https://sock1000kg.github.io/Tenzies/)
 A simple dice game built with **React + Vite** — my first real project using React.
 The goal is to roll the dice until all values match, holding the ones you want to keep between rolls. Winners will get confetti as congratulation!
 
