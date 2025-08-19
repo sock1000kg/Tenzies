@@ -1,4 +1,6 @@
 # Tenzies
+*(English | [Tiếng Việt](./README.vi.md))*
+
 [Link](https://sock1000kg.github.io/Tenzies/)
 
 A simple dice game built with **React + Vite** — my first real project using React.
